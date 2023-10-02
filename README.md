@@ -1,6 +1,6 @@
 # Bonjour, je suis 0X00Ditto 👋
 
-[img]https://i.imgur.com/mdUtZ2A.gif[/img]
+![Nom de ton GIF](https://i.imgur.com/mdUtZ2A.mp4)
 
 ## 🌱 Qui suis-je ?
 
