@@ -1,4 +1,4 @@
-# Bonjour, je suis 0X00 👋
+# Bonjour, je suis 0X00Ditto 👋
 
 ![Ditto GIF](https://media.tenor.com/images/7f9d58c09a77642a8b60ed3246f8f327/tenor.gif)
 
