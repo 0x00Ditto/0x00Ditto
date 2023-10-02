@@ -1,7 +1,7 @@
 # Bonjour, je suis 0X00 👋
 
-![banner or gif]([link_to_a_b(https://tenor.com/fr/view/ditto-pooped-tired-exhausted-pokemon-gif-7354262])
-)
+[![Nom du GIF](https://tenor.com/fr/view/ditto-pooped-tired-exhausted-pokemon-gif-7354262)](lien_que_tu_veux_ajouter)
+
 ## 🌱 Qui suis-je ?
 
 - 🌐 Je suis un développeur Full Stack en devenir.
