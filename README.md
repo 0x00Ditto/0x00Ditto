@@ -1,6 +1,6 @@
 # Bonjour, je suis 0X00 👋
 
-[![Nom du GIF](https://tenor.com/fr/view/ditto-pooped-tired-exhausted-pokemon-gif-7354262)](lien_que_tu_veux_ajouter)
+![Ditto GIF](https://media.tenor.com/images/7f9d58c09a77642a8b60ed3246f8f327/tenor.gif)
 
 ## 🌱 Qui suis-je ?
 
