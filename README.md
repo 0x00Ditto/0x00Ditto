@@ -1,7 +1,5 @@
 # Bonjour, je suis 0X00Ditto 👋
 
-![Nom de ton GIF](https://i.imgur.com/mdUtZ2A.mp4)
-
 ## 🌱 Qui suis-je ?
 
 - 🌐 Je suis un développeur Full Stack en devenir.
