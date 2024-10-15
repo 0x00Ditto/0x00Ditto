@@ -19,3 +19,11 @@
 [![My_github_stat](https://github-readme-stats.vercel.app/api?username=0x00Ditto&show_icons=true&hide_border=true)]
 
 
+name: Example
+uses: lowlighter/metrics@latest
+with:
+  template: terminal
+  filename: metrics.terminal.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, metadata
+
