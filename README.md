@@ -19,5 +19,5 @@
 [![My_github_stat](https://github-readme-stats.vercel.app/api?username=0x00Ditto&show_icons=true&hide_border=true)]
 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3722167" style='border:none;'></iframe>
+![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3722167)
 
